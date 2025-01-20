@@ -20,5 +20,5 @@ El objetivo principal de este proyecto es permitir a los usuarios añadir nombre
 3. Ingresa los nombres de los participantes en el campo de entrada y presiona "Añadir".
 4. Una vez que todos los nombres estén en la lista, haz clic en "Sortear amigo" para obtener al "Amigo Secreto".
 
-## Capturas de pantalla
+## Captura de pantalla
 ![Vista previa del juego](assets/imagen.png "Pantalla del juego Amigo Secreto")
