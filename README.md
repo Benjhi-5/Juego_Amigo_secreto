@@ -1,5 +1,4 @@
 # Juego_Amigo_secreto
-# Juego_Amigo_secreto
 
 Este es un proyecto que implementa un juego interactivo para seleccionar de forma aleatoria un "Amigo Secreto" de una lista de nombres proporcionada por el usuario. El proyecto está desarrollado utilizando **HTML**, **CSS** y **JavaScript**.
 
